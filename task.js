@@ -91,7 +91,7 @@ console.log(_newArr);
 // using Array Methods
 const rohitData = users.find((item) => {
     console.log(item.name);
-    return item.name === "rekha";
+    return item.name === "rohit";
   });
   
   console.log(rohitData);
